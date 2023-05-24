@@ -875,7 +875,11 @@ nav ul li a:hover{
 
     
 }
-
+.language-selector{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
 /*PRUEBA*/
 /*Banner*/
 
